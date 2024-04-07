@@ -40,7 +40,7 @@ img {
   padding: 1rem;
   border-radius: 12px;
   padding-bottom: 2.75rem;
-  box-shadow: 10px 15px 15px -23px var(--DarkBlue);
+  box-shadow: 10px 10px 40px -30px var(--DarkBlue);
 }
 .body-container {
   text-align: center;
